@@ -16,5 +16,12 @@
   "bugs": {
     "url": "https://github.com/DarkPotatoKing/json-web-token-test/issues"
   },
-  "homepage": "https://github.com/DarkPotatoKing/json-web-token-test#readme"
+  "homepage": "https://github.com/DarkPotatoKing/json-web-token-test#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "jsonwebtoken": "^7.4.1",
+    "mongoose": "^4.10.8",
+    "morgan": "^1.8.2"
+  }
 }
